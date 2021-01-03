@@ -1,3 +1,5 @@
+var $ = jQuery;
+
 $(function () {
   $(document).scroll(function () {
     var $nav = $(".sticky-top");
